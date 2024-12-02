@@ -1,4 +1,4 @@
-#!/home/kyawkyaw/Desktop/fastapi/venv/bin/python3
+#!/home/kyawkyaw/Desktop/FastAPI/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
